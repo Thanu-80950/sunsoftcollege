@@ -5,4 +5,6 @@ This is __just__ to ***demostrate*** the other tags **HTML** in **markdown** lan
 
 Click here to [login](login.html)
 
-[IBM website](www.ibm.com)
+[IBM website](http://www.ibm.com)
+
+[Sunsoft Technologies](http://www.sunsofttechies.com)
